@@ -34,10 +34,15 @@ Login Page
 
 Rules Page
 
+
 ![image alt](https://github.com/SHREYA58GUPTA/KBC-Quiz-Application/blob/85726d3962b29e58dcc01476d70d506e01eb1e40/Screenshot%202026-06-11%20150526.png)
 
 
 Quiz Interface
+
+
+![image alt](https://github.com/SHREYA58GUPTA/KBC-Quiz-Application/blob/ab72a4d91a31f220e6ac9c503d6908e75276b5ac/Screenshot%202026-06-11%20150541.png)
+
 
 
 Author
