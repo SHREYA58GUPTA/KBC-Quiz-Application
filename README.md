@@ -25,6 +25,7 @@ src/
 ├── Quiz.java
 └── Score.java
 
+
 Login Page
 
 
@@ -32,8 +33,12 @@ Login Page
 
 
 Rules Page
+
+![image alt](https://github.com/SHREYA58GUPTA/KBC-Quiz-Application/blob/85726d3962b29e58dcc01476d70d506e01eb1e40/Screenshot%202026-06-11%20150526.png)
+
+
 Quiz Interface
-Score Page
+
 
 Author
 
